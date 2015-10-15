@@ -6,7 +6,7 @@ There were over 1,000 pieces, and the process was as painful as it sounds.
 
 To avoid this in the future, I decided to make a simple program that would let me save the details of each schematic in a database. The most important feature is, naturally, the piece counter. An added bonus is that it would also allow me to easily play around with new color combinations without needing to build the entire piece each time.
 
-#####Current Functionality
+#####Current Functionality (see dev branch)
 The program currently allows the user to create simple rectangular schematics in two ways:
 * Defining a width and height and a pattern to be repeated within those dimensions
 * Defining a pattern one row at a time, with spaces/underscores as gaps between pieces
